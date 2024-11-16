@@ -1,5 +1,5 @@
 # Data-Analysis-Internship
-###Internship: Statistical Analysis and Hypothesis testing###
+###Internship: Statistical Analysis and Hypothesis testing ###
 
 ##Statistics and Data Analysis##
 • Learned and applied statistical concepts including significance, measurement levels, and empirical rules.
